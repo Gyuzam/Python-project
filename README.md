@@ -14,6 +14,7 @@
 ###  **Запуск**  
 Игра: python3 snake.py  
 Тесты: python3 -m unittest snake_test.py  
+Можно установить колесо: перейти в директорию dict (cd dict), установить командой: python3 -m pip install snake-0.0.1-py3-none-any.whl и запустить командой python3 -m snake  
 ### **GUI**  
 ![GUI](https://github.com/ilpol/Python-project/blob/master/interfaceNew.png)
 
